@@ -19,7 +19,7 @@ void printOutput(FILE *gp, int n, int level, long double *xS0, long double *yS0,
                  long double *xS2, long double *yS2);
 void updateArray(int n, int level, long double **xS0, long double **yS0);
 /* ciao */
-/*ciao 1*/
+/*ciao 2*/
 /******************************************************************/
 int main(int argc, char *argv[])
 {
